@@ -11,7 +11,7 @@
 `root@vlany:~# wget https://gist.githubusercontent.com/mempodippy/d93fd99164bace9e63752afb791a896b/raw/6b06d235beac8590f56c47b7f46e2e4fac9cf584/quick_install.sh -O /tmp/quick_install.sh && chmod +x /tmp/quick_install.sh && /tmp/quick_install.sh`</br></br>
 The quick_install.sh script automatically downloads the latest version of vlany from this repository, untars the archive, then executes the regular installation script from a new random directory in /tmp/. By default, the quick_install.sh script removes the new directory once execution has completely finished.</br>
 
- * It's very simple to install vlany onto a sytem as it comes with an automated install script.    
+ * It's very simple to install vlany onto a system as it comes with an automated install script.    
 To install vlany you want to first download it from our GitHub ( Always up to date and trusted )  
 `root@vlany:~# wget https://github.com/mempodippy/vlany/archive/master.tar.gz && tar xvpfz master.tar.gz`
 
